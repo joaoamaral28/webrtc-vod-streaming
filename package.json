@@ -1,0 +1,20 @@
+{
+  "name": "webrtc",
+  "version": "1.0.0",
+  "description": "Webrtc based streaming for live video on demand",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "author": "João Amaral",
+  "license": "ISC",
+  "dependencies": {
+    "fluent-ffmpeg": "^2.1.2",
+    "fs": "0.0.1-security",
+    "http": "0.0.0",
+    "jsdom": "^13.0.0",
+    "opn": "^5.4.0",
+    "ws": "^6.1.2"
+  }
+}
