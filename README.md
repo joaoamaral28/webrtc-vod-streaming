@@ -1,6 +1,6 @@
 # WebRTC VOD streaming
 
-WebRTC stream implementation for a Video On Demand (VOD) service. Developed for the practical project course 2578 - Services Engineering.
+WebRTC stream implementation for a Video On Demand (VOD) service. Developed for the practical project course the course 2578 - Services Engineering.
 
  WebRTC is an open framework for the web that enables Real-Time Communications (RTC) capabilities in the browser. This allows the execution
  of new applications such as phone calls, video chat and P2P sharing without any required additional plugins. 
