@@ -13,3 +13,9 @@ the only way to generate such object was through the loading of the video in a v
 the captureStream() method, resulting in the WebRTC streamable MediaStream object. Therefore it is easy to see why this streaming 
 solution falls far from ideal and is not scalable or reliable. Using PhantomJS or running headless browsers to perform the capture could
 potentially enchance the performance, however I could not manage to make these experiments functional at the time of development.
+
+In a simplified manner, the stream workflow is as follows: 
+
+<p align="center">
+<img src="https://github.com/joaoamaral28/webrtc-vod-streaming/blob/master/workflow.png" width=500px>
+</p>
